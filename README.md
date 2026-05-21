@@ -65,7 +65,7 @@ Down Arrow	Move Backward
 Esc	Exit Game
 
 📸 Screenshot
-![Highway Rush Gameplay](screenshots/gameplay.png)
+![Highway Rush Gameplay](screenshot/gameplay.png)
 
 👩‍💻 Author
 
