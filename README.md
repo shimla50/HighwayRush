@@ -42,8 +42,13 @@ This project was created as part of my CSE423 coursework.
 ```text
 HighwayRush/
 │
-├── HighwayRush.py
-└── README.md
+├── Lets_draw_sth.py
+├── README.md
+└── screenshot/
+    └── gameplay.png
+```
+
+---
 
 ▶️ How to Run the Project
 
@@ -68,7 +73,6 @@ Esc	Exit Game
 ![Highway Rush Gameplay](screenshot/gameplay.png)
 
 👩‍💻 Author
-
 Shimla
 
 GitHub: @shimla50
